@@ -1,0 +1,38 @@
+.login-box {
+    height: 100vh;
+    margin: auto;
+    flex-direction: column;
+    max-width: 30vw;
+}
+
+.login-box p{
+    margin-block: 1.5rem;
+}
+
+.login-box .input-container {
+    margin-bottom: 1.5rem;
+}
+
+@media (max-width: 900px) {
+    .login-box{
+        width: 80vw;
+    }
+}
+
+@media (max-width: 759px) {
+    .login-box{
+        width: 80vw;
+    }
+}
+
+@media (max-width: 489px) {
+    .login-box{
+        width: 80vw;
+    }
+}
+
+@media (max-width: 379px) {
+    .login-box{
+        width: 80vw;
+    }
+}

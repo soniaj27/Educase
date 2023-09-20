@@ -1,0 +1,29 @@
+.profile-container {
+    position: relative;
+    height: 100vh;
+    margin: auto;
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 30vw;
+}
+
+.profile-container .btn-link{
+    width: 50%;
+}
+
+.profile-container p{
+    margin-block: 1.5rem;
+}
+
+.info{
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+figure{
+    width: 20%;
+}
+
+figure img{
+    width: 100%;
+}
